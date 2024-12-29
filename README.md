@@ -8,10 +8,10 @@ Aplikasi Rental Mobil ini dikembangkan sebagai tugas akhir untuk mata kuliah PBO
 
 ## Tampilan Aplikasi
 ![Menu](screenshot/Menu.png)
-![Form Mobil](screenshot/Form Mobil.png)
-![Form Rental](screenshot/Form Rental.png)
-![Laporan Mobil](screenshot/Laporan Mobil.png)
-![Laporan Rental](screenshot/Laporan Rental.png)
+![Form Mobil](screenshot/FormMobil.png)
+![Form Rental](screenshot/FormRental.png)
+![Laporan Mobil](screenshot/LaporanMobil.png)
+![Laporan Rental](screenshot/LaporanRental.png)
 
 ## Struktur Direktori
 - src/: Berisi kode sumber aplikasi.
